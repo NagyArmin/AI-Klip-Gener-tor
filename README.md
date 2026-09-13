@@ -1,4 +1,4 @@
-# 🎬 Profi AI Klip Generátor (TikTok / Shorts / Reels)
+# 🎬 AI Klip Generátor (TikTok / Shorts / Reels)
 
 Egy teljesen automatizált, Python-alapú videóvágó és tartalomgyártó rendszer. A projekt mesterséges intelligencia (Gemini AI, Whisper) és az FFmpeg segítségével készít hosszú YouTube videókból rövid, figyelemfelkeltő, 9:16-os formátumú klipeket.
 
