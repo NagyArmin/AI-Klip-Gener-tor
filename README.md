@@ -51,8 +51,8 @@ Mivel a rendszer az FFmpeg motort használja a gyorsított videóvágáshoz, ezt
 
 ### 3. Szükséges Python könyvtárak telepítése
 Nyiss egy Parancssort (CMD) vagy PowerShellt a projekt mappájában, és futtasd le az alábbi parancsot, ami letölti a Google AI és a Whisper csomagokat:
-```bash
-  pip install google-generativeai openai-whisper
+
+pip install google-generativeai openai-whisper
 
 
 4. Az AI Agyának Bekötése (Gemini API Kulcs)
@@ -71,6 +71,5 @@ Ahhoz, hogy a script ne csak vakon vagdalkozzon, hanem profi vágóként tényle
 5. Rendszer indítása (Használat)
 Minden készen áll. Nyiss egy új terminált a mappában, és indítsd el a mester scriptet:
 
-```bash
 python indito.py
 
